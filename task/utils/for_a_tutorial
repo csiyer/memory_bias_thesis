@@ -1,0 +1,815 @@
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+n trials: 110
+accuracy: 85
+duration: 9.29
+{"Q0":"Does this mean my bonus was $2 or the bonus was $1.50 + the base pay? The description is unclear. Thank you. "}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default. 2$ BONUS + 0.50$ BASE PAY. We'll improve our instructions--thanks for the feedback, and great work!
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: AIHHRINW9IN1I , experiment_duration: 9.29 , accuracy:  85 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 91
+duration: 10.49
+{"Q0":"was interesting. the hardest part was being able to tell the faces apart from one another when at odd angles. "}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: AOO1OPH6P8BUM , experiment_duration: 10.49 , accuracy:  91 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 79
+duration: 5.93
+{"Q0":"It was fun and pretty tough on a lot of the trials"}
+bonus amount: 0.900000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 0.9
+worker_id: A2AJ5QFNC9KF43 , experiment_duration: 5.93 , accuracy:  79 , n_trials: 110 , bonus: 0.9 success!
+n trials: 110
+accuracy: 82
+duration: 10.95
+{"Q0":"It was okay and decent pay "}
+bonus amount: 1.500000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 1.5
+worker_id: A20MOTHAE8JNVU , experiment_duration: 10.95 , accuracy:  82 , n_trials: 110 , bonus: 1.5 success!
+n trials: 110
+accuracy: 75
+duration: 14.64
+{"Q0":"Easy And Good experiment"}
+bonus amount: 0.000000
+Enter a custom message? Pressing enter reverts to default. We're manually adding to your bonus, so you'll have made 1$ total for this HIT
+Amount to bonus worker? Pressing enter reverts to 0.0 0.50
+worker_id: A2OV5NPNDK5O4C , experiment_duration: 14.64 , accuracy:  75 , n_trials: 110 , bonus: 0.50 success!
+n trials: 110
+accuracy: 85
+duration: 7.10
+{"Q0":""}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A3NA0Y5FD5SDWH , experiment_duration: 7.10 , accuracy:  85 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 78
+duration: 10.76
+{"Q0":""}
+bonus amount: 0.700000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 0.7
+worker_id: ANBWJZYU2A68T , experiment_duration: 10.76 , accuracy:  78 , n_trials: 110 , bonus: 0.7 success!
+n trials: 110
+accuracy: 80
+duration: 13.67
+{"Q0":""}
+bonus amount: 1.100000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 1.1
+worker_id: A14EYTLSMJRPUK , experiment_duration: 13.67 , accuracy:  80 , n_trials: 110 , bonus: 1.1 success!
+n trials: 110
+accuracy: 93
+duration: 6.93
+{"Q0":""}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A272X64FOZFYLB , experiment_duration: 6.93 , accuracy:  93 , n_trials: 110 , bonus: 2.0 success!
+creating new submission inventory...
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+n trials: 110
+accuracy: 84
+duration: 8.20
+{"Q0":"Some of them were hard - the faces especially due to the tilting.  I tried really hard :)"}
+bonus amount: 1.900000
+Enter a custom message? Pressing enter reverts to default. Great work!
+Amount to bonus worker? Pressing enter reverts to 1.9
+worker_id: A2WHC086WNUQNB , experiment_duration: 8.20 , accuracy:  84 , n_trials: 110 , bonus: 1.9 success!
+n trials: 110
+accuracy: 92
+duration: 6.33
+{"Q0":"Wow. 92% That was WAY better than I though! I really wish this were broken down into categories. I think I screwed up some NON face ones, and the faces were - assumption - the real point of the experiment."}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default. You're right, the faces are the MOST important, but everything else is important, too. Nice work!
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A2QBFXY9UQMJTT , experiment_duration: 6.33 , accuracy:  92 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 92
+duration: 8.72
+{"Q0":"Pretty easy except for the faces which I'm sure is the point."}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A1DDNPNUO1TNRC , experiment_duration: 8.72 , accuracy:  92 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 89
+duration: 7.09
+{"Q0":"it was fun, but it was super hard to tell the human faces apart"}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A383WPMTMRQEA0 , experiment_duration: 7.09 , accuracy:  89 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 82
+duration: 13.20
+{"Q0":"fun"}
+bonus amount: 1.500000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 1.5
+worker_id: AB8W80RSDX64W , experiment_duration: 13.20 , accuracy:  82 , n_trials: 110 , bonus: 1.5 success!
+n trials: 110
+accuracy: 55
+duration: 8.82
+{"Q0":"It was hard to see some of the images."}
+bonus amount: 0.000000
+Enter a custom message? Pressing enter reverts to default. We're manually adding to your bonus :)
+Amount to bonus worker? Pressing enter reverts to 0.0 0.25
+worker_id: A29ANBEU3JKCKZ , experiment_duration: 8.82 , accuracy:  55 , n_trials: 110 , bonus: 0.25 success!
+n trials: 110
+accuracy: 85
+duration: 12.31
+{"Q0":"some were hard and some were very easy"}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A30VLAIIJIG5IS , experiment_duration: 12.31 , accuracy:  85 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 70
+duration: 8.42
+{"Q0":""}
+bonus amount: 0.000000
+Enter a custom message? Pressing enter reverts to default. We're manually adding to your bonus :)
+Amount to bonus worker? Pressing enter reverts to 0.0 0.25
+worker_id: A273B58CZCS643 , experiment_duration: 8.42 , accuracy:  70 , n_trials: 110 , bonus: 0.25
+ERROR <class 'botocore.exceptions.ClientError'>
+ An error occurred (ValidationException) when calling the SendBonus operation: 1 validation error detected: Value '0.25 ' at 'bonusAmount' failed to satisfy constraint: Member must satisfy regular expression pattern: ^[0-9]+(\.)?[0-9]{0,2}$
+n trials: 110
+accuracy: 74
+duration: 7.99
+{"Q0":"too hard and bonus not fair!"}
+bonus amount: 0.000000
+Enter a custom message? Pressing enter reverts to default. We're manually adding to your bonus, so you'll have made 1$ total for this HIT
+Amount to bonus worker? Pressing enter reverts to 0.0 0.50
+worker_id: A2UTDZAZV1DF0N , experiment_duration: 7.99 , accuracy:  74 , n_trials: 110 , bonus: 0.50
+ERROR <class 'botocore.exceptions.ClientError'>
+ An error occurred (ValidationException) when calling the SendBonus operation: 1 validation error detected: Value '0.50 ' at 'bonusAmount' failed to satisfy constraint: Member must satisfy regular expression pattern: ^[0-9]+(\.)?[0-9]{0,2}$
+creating new submission inventory...
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+n trials: 110
+accuracy: 39
+duration: 5.17
+{"Q0":"IT was extremely difficult, yikes!"}
+bonus amount: 0.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 0.0
+worker_id: A6JUD4NCQCDWG , experiment_duration: 5.17 , accuracy:  39 , n_trials: 110 , bonus: 0.0
+ERROR <class 'botocore.exceptions.ClientError'>
+ An error occurred (ParameterValidationError) when calling the SendBonus operation: The value 0.00 is invalid for BonusAmount.Amount. Valid values range from 0.01 to 2147483. (1567618277834)
+n trials: 110
+accuracy: 87
+duration: 10.65
+{"Q0":"I enjoyed it, the bonus is fair and it was interesting."}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A2W8TJXW68442D , experiment_duration: 10.65 , accuracy:  87 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 85
+duration: 10.34
+{"Q0":"I had fun doing this, thank you very muck for this opportunity!  It felt difficult and I did much better than I anticipated.  Human heads most difficult."}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: ANWY0TG55MWW9 , experiment_duration: 10.34 , accuracy:  85 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 80
+duration: 6.41
+{"Q0":"Seems fair to me. "}
+bonus amount: 1.100000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 1.1
+worker_id: A3I1W58P6SIV26 , experiment_duration: 6.41 , accuracy:  80 , n_trials: 110 , bonus: 1.1 success!
+n trials: 110
+accuracy: 92
+duration: 7.62
+{"Q0":"Bonus is good and the task was fun"}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A394JO4NEPCY3M , experiment_duration: 7.62 , accuracy:  92 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 87
+duration: 7.57
+{"Q0":""}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A1ZT30BGR3266K , experiment_duration: 7.57 , accuracy:  87 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 73
+duration: 11.18
+{"Q0":""}
+bonus amount: 0.000000
+Enter a custom message? Pressing enter reverts to default. We're manually adding to your bonus :)
+Amount to bonus worker? Pressing enter reverts to 0.0 0.25
+worker_id: ABOEYY9Y0PFRI , experiment_duration: 11.18 , accuracy:  73 , n_trials: 110 , bonus: 0.25 success!
+n trials: 110
+accuracy: 84
+duration: 13.89
+{"Q0":"fun!"}
+bonus amount: 1.900000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 1.9
+worker_id: A248LF7KKHXZ14 , experiment_duration: 13.89 , accuracy:  84 , n_trials: 110 , bonus: 1.9
+ERROR <class 'botocore.errorfactory.RequestError'>
+ An error occurred (RequestError) when calling the SendBonus operation: Assignment 3LEIZ60CDMFZ662VRH7MX84MPDBZ9H does not exist. (1567618350858)
+n trials: 110
+accuracy: 43
+duration: 7.83
+{"Q0":""}
+bonus amount: 0.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 0.0
+worker_id: A1QUNP6IYOQMZ5 , experiment_duration: 7.83 , accuracy:  43 , n_trials: 110 , bonus: 0.0
+ERROR <class 'botocore.exceptions.ClientError'>
+ An error occurred (ParameterValidationError) when calling the SendBonus operation: The value 0.00 is invalid for BonusAmount.Amount. Valid values range from 0.01 to 2147483. (1567618361252)
+n trials: 110
+accuracy: 79
+duration: 6.79
+{"Q0":""}
+bonus amount: 0.900000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 0.9
+worker_id: A1KS9OHP5553CF , experiment_duration: 6.79 , accuracy:  79 , n_trials: 110 , bonus: 0.9 success!
+creating new submission inventory...
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+n trials: 110
+accuracy: 87
+duration: 9.22
+{"Q0":"It was a really great experiment because some trials were fast and easy, sure, but in my experience the trials involving humans faces were the real challenge and the ones that got most focused to detect the small differences such as the nose tip, the lips and nose size and similar characteristics. In general I like the way you could the arrows to answer, it is pretty to get a grasp on it. The bonus system was fair and kept you focused to avoid mistakes, it added a plus to the challenge."}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default. Thanks for the feedback! It's helpful to know when we're doing things right--and it feels nice :)
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: AM4PAC2YQPREB , experiment_duration: 9.22 , accuracy:  87 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 85
+duration: 8.55
+{"Q0":"Easy, fair bonus!!! Thank you!!"}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: APL2VQM32UG4X , experiment_duration: 8.55 , accuracy:  85 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 86
+duration: 23.92
+{"Q0":""}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A2VOZ7LPG24NWU , experiment_duration: 23.92 , accuracy:  86 , n_trials: 110 , bonus: 2.0
+ERROR <class 'botocore.errorfactory.RequestError'>
+ An error occurred (RequestError) when calling the SendBonus operation: Assignment 3LJ7UR74RKT4SBI07Y01LDMXT7S4NC does not exist. (1567618430187)
+n trials: 110
+accuracy: 65
+duration: 5.62
+{"Q0":""}
+bonus amount: 0.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 0.0
+worker_id: A3U21PUMQ6NGT2 , experiment_duration: 5.62 , accuracy:  65 , n_trials: 110 , bonus: 0.0
+ERROR <class 'botocore.exceptions.ClientError'>
+ An error occurred (ParameterValidationError) when calling the SendBonus operation: The value 0.00 is invalid for BonusAmount.Amount. Valid values range from 0.01 to 2147483. (1567618444560)
+n trials: 110
+accuracy: 82
+duration: 9.64
+{"Q0":"I found the faces hard to tell apart. The controls were easy to figure out. "}
+bonus amount: 1.500000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 1.5
+worker_id: A2DF8W7SDWLURD , experiment_duration: 9.64 , accuracy:  82 , n_trials: 110 , bonus: 1.5 success!
+n trials: 110
+accuracy: 75
+duration: 6.78
+{"Q0":"the faces were really hard to distinguish"}
+bonus amount: 0.000000
+Enter a custom message? Pressing enter reverts to default. We're manually adding to your bonus, so you'll have made 1$ total for this HIT
+Amount to bonus worker? Pressing enter reverts to 0.0 0.50
+worker_id: A19C6T7B0H4PAQ , experiment_duration: 6.78 , accuracy:  75 , n_trials: 110 , bonus: 0.50 success!
+n trials: 110
+accuracy: 72
+duration: 17.96
+{"Q0":"really? I am pretty pissed, some of these were really hard. I should get a bonus. "}
+bonus amount: 0.000000
+Enter a custom message? Pressing enter reverts to default. We're manually adding to your bonus, so you'll have made 1$ total for this HIT
+Amount to bonus worker? Pressing enter reverts to 0.0 0.50
+worker_id: A3F7L0TIE1QEWW , experiment_duration: 17.96 , accuracy:  72 , n_trials: 110 , bonus: 0.50
+ERROR <class 'botocore.exceptions.ClientError'>
+ An error occurred (ValidationException) when calling the SendBonus operation: 1 validation error detected: Value '0.50 ' at 'bonusAmount' failed to satisfy constraint: Member must satisfy regular expression pattern: ^[0-9]+(\.)?[0-9]{0,2}$
+n trials: 110
+accuracy: 88
+duration: 5.24
+{"Q0":"This was a lot of fun--I really enjoyed it!"}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A324KCBTOD3P6Y , experiment_duration: 5.24 , accuracy:  88 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 77
+duration: 5.89
+{"Q0":""}
+bonus amount: 0.500000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 0.5
+worker_id: A2DWSKGD9RNKMJ , experiment_duration: 5.89 , accuracy:  77 , n_trials: 110 , bonus: 0.5 success!
+n trials: 110
+accuracy: 77
+duration: 12.62
+{"Q0":"It was hard, especially the faces."}
+bonus amount: 0.500000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 0.5
+worker_id: AAXX5LDVJ32F8 , experiment_duration: 12.62 , accuracy:  77 , n_trials: 110 , bonus: 0.5 success!
+creating new submission inventory...
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+n trials: 110
+accuracy: 59
+duration: 6.55
+{"Q0":"terrible"}
+bonus amount: 0.000000
+Enter a custom message? Pressing enter reverts to default. Is there something that went wrong? Looking at your reaction times, maybe you were responding too quickly?
+Amount to bonus worker? Pressing enter reverts to 0.0 0.01
+worker_id: A207IHY6GERCFO , experiment_duration: 6.55 , accuracy:  59 , n_trials: 110 , bonus: 0.01 success!
+n trials: 110
+accuracy: 85
+duration: 8.40
+{"Q0":"It was fun:)"}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A31681CCEVDIH3 , experiment_duration: 8.40 , accuracy:  85 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 85
+duration: 11.08
+{"Q0":"The bonus is fair! I enjoyed the study.\nI found the faces to be the most challenging but otherwise it was of medium difficulty."}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A1Y58RLE1WCGDU , experiment_duration: 11.08 , accuracy:  85 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 84
+duration: 8.19
+{"Q0":"It was very hard, especially the faces.  I would suggest less items to look at and a higher bonus per item as a result."}
+bonus amount: 1.900000
+Enter a custom message? Pressing enter reverts to default. Thanks for the feedback!
+Amount to bonus worker? Pressing enter reverts to 1.9
+worker_id: AKU3V8P1O0F51 , experiment_duration: 8.19 , accuracy:  84 , n_trials: 110 , bonus: 1.9 success!
+n trials: 110
+accuracy: 78
+duration: 8.86
+{"Q0":"Very difficult particularly to pick the faces."}
+bonus amount: 0.700000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 0.7
+worker_id: A88DXNDGDUWEN , experiment_duration: 8.86 , accuracy:  78 , n_trials: 110 , bonus: 0.7 success!
+n trials: 110
+accuracy: 75
+duration: 5.31
+{"Q0":""}
+bonus amount: 0.100000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 0.1
+worker_id: A1FS8SBR4SDWYG , experiment_duration: 5.31 , accuracy:  75 , n_trials: 110 , bonus: 0.1 success!
+n trials: 110
+accuracy: 76
+duration: 7.76
+{"Q0":""}
+bonus amount: 0.300000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 0.3
+worker_id: A20RVM3V1A3DKX , experiment_duration: 7.76 , accuracy:  76 , n_trials: 110 , bonus: 0.3 success!
+n trials: 110
+accuracy: 84
+duration: 10.93
+{"Q0":""}
+bonus amount: 1.900000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 1.9
+worker_id: A1P6OXEJ86HQRM , experiment_duration: 10.93 , accuracy:  84 , n_trials: 110 , bonus: 1.9 success!
+n trials: 110
+accuracy: 31
+duration: 1.28
+{"Q0":""}
+bonus amount: 0.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 0.0
+worker_id: A1PUHCEBSOWETV , experiment_duration: 1.28 , accuracy:  31 , n_trials: 110 , bonus: 0.0
+ERROR <class 'botocore.exceptions.ClientError'>
+ An error occurred (ParameterValidationError) when calling the SendBonus operation: The value 0.00 is invalid for BonusAmount.Amount. Valid values range from 0.01 to 2147483. (1567618625158)
+creating new submission inventory...
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+n trials: 110
+accuracy: 88
+duration: 7.80
+{"Q0":"It did feel a bit difficult, but likely mostly because of the time limit itself which, given my average response time, was probably more my imagination than anything else.  I thought it was fairly entertaining for what it was, and the bonus was absolutely fair.  Good HIT!"}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default. Thanks for the feedback!
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A2IP3ZAFYGV8M9 , experiment_duration: 7.80 , accuracy:  88 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 78
+duration: 6.95
+{"Q0":""}
+bonus amount: 0.700000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 0.7
+worker_id: A3O4VPJT4GOBMB , experiment_duration: 6.95 , accuracy:  78 , n_trials: 110 , bonus: 0.7 success!
+n trials: 110
+accuracy: 78
+duration: 8.71
+{"Q0":"The planes and faces were the hardest to select the oddity. I actually did better than I thought! "}
+bonus amount: 0.700000
+Enter a custom message? Pressing enter reverts to default. Nice work!
+Amount to bonus worker? Pressing enter reverts to 0.7
+worker_id: AHG23QXFY30HE , experiment_duration: 8.71 , accuracy:  78 , n_trials: 110 , bonus: 0.7 success!
+n trials: 110
+accuracy: 82
+duration: 8.07
+{"Q0":""}
+bonus amount: 1.500000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 1.5
+worker_id: A17Q4QN6UE0EZC , experiment_duration: 8.07 , accuracy:  82 , n_trials: 110 , bonus: 1.5 success!
+n trials: 110
+accuracy: 92
+duration: 14.15
+{"Q0":""}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A3J85WP15JFYW0 , experiment_duration: 14.15 , accuracy:  92 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 74
+duration: 7.44
+{"Q0":""}
+bonus amount: 0.000000
+Enter a custom message? Pressing enter reverts to default. We're manually adding to your bonus :)
+Amount to bonus worker? Pressing enter reverts to 0.0 0.25
+worker_id: AZ8JL3QNIPY4U , experiment_duration: 7.44 , accuracy:  74 , n_trials: 110 , bonus: 0.25
+ERROR <class 'botocore.exceptions.ClientError'>
+ An error occurred (ValidationException) when calling the SendBonus operation: 1 validation error detected: Value '0.25 ' at 'bonusAmount' failed to satisfy constraint: Member must satisfy regular expression pattern: ^[0-9]+(\.)?[0-9]{0,2}$
+n trials: 110
+accuracy: 87
+duration: 7.62
+{"Q0":""}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: AD14EQ9O9JKRI , experiment_duration: 7.62 , accuracy:  87 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 94
+duration: 6.14
+{"Q0":"The faces were the hardest to tell apart. The animals were the easiest."}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default. Thanks for the feedback!
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A2SL8R5B6QX4Q0 , experiment_duration: 6.14 , accuracy:  94 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 85
+duration: 13.08
+{"Q0":"The human heads were hard to determine when it's hard to see features. I also noticed the background played a big part in trying to determine an image. Some backgrounds got darker, making it more difficult to decipher the image. "}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default. Thanks for the feedback!
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A2KE8L6S2ADRNR , experiment_duration: 13.08 , accuracy:  85 , n_trials: 110 , bonus: 2.0 success!
+creating new submission inventory...
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+n trials: 110
+accuracy: 93
+duration: 9.88
+{"Q0":""}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A2GVTP4DBFQTR8 , experiment_duration: 9.88 , accuracy:  93 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 69
+duration: 12.48
+{"Q0":"It was hard to see the pictures. They were really dark."}
+bonus amount: 0.000000
+Enter a custom message? Pressing enter reverts to default. We're manually adding to your bonus :)
+Amount to bonus worker? Pressing enter reverts to 0.0 0.30
+worker_id: A3UOQPGK3I015S , experiment_duration: 12.48 , accuracy:  69 , n_trials: 110 , bonus: 0.30
+ERROR <class 'botocore.exceptions.ClientError'>
+ An error occurred (ValidationException) when calling the SendBonus operation: 1 validation error detected: Value '0.30 ' at 'bonusAmount' failed to satisfy constraint: Member must satisfy regular expression pattern: ^[0-9]+(\.)?[0-9]{0,2}$
+n trials: 110
+accuracy: 81
+duration: 9.83
+{"Q0":"most of them were easy, the hardest way has to be the man's face. Pay bonus is great!"}
+bonus amount: 1.300000
+Enter a custom message? Pressing enter reverts to default. Thanks for the feedback!
+Amount to bonus worker? Pressing enter reverts to 1.3
+worker_id: A82Q1HS5CPZ5I , experiment_duration: 9.83 , accuracy:  81 , n_trials: 110 , bonus: 1.3 success!
+n trials: 110
+accuracy: 79
+duration: 9.73
+{"Q0":"I thought the heads all looked the same. "}
+bonus amount: 0.900000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 0.9
+worker_id: AWAD71OKJYB2H , experiment_duration: 9.73 , accuracy:  79 , n_trials: 110 , bonus: 0.9 success!
+n trials: 110
+accuracy: 80
+duration: 9.71
+{"Q0":"Trippy\n\n\nI loved it. Whoever thought this up as your way to get experiment data needs more funding.\n\nI do wonder how you took into account the trials where it was impossible to tell. For example there were 3 or so where the face was rotated completely away so you couldn't even see the facial expression. It was basically a guess."}
+bonus amount: 1.100000
+Enter a custom message? Pressing enter reverts to default. Great feedback--very funny! Part of the purpose was to eliminate those trials that it's just a guess :)
+Amount to bonus worker? Pressing enter reverts to 1.1
+worker_id: AIZTLQM7HHQN6 , experiment_duration: 9.71 , accuracy:  80 , n_trials: 110 , bonus: 1.1 success!
+n trials: 110
+accuracy: 85
+duration: 6.49
+{"Q0":""}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A2ZIATVCA2NKPF , experiment_duration: 6.49 , accuracy:  85 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 95
+duration: 7.77
+{"Q0":""}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A3D2GO0IFRFN6R , experiment_duration: 7.77 , accuracy:  95 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 91
+duration: 10.40
+{"Q0":""}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A96CZ20YAZKZ8 , experiment_duration: 10.40 , accuracy:  91 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 35
+duration: 2.26
+{"Q0":""}
+bonus amount: 0.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 0.0
+worker_id: A2RVDEU138ZF9P , experiment_duration: 2.26 , accuracy:  35 , n_trials: 110 , bonus: 0.0
+ERROR <class 'botocore.exceptions.ClientError'>
+ An error occurred (ParameterValidationError) when calling the SendBonus operation: The value 0.00 is invalid for BonusAmount.Amount. Valid values range from 0.01 to 2147483. (1567618841700)
+creating new submission inventory...
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+n trials: 110
+accuracy: 35
+duration: 2.08
+{"Q0":""}
+bonus amount: 0.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 0.0
+worker_id: A14FPZMC9ENX8E , experiment_duration: 2.08 , accuracy:  35 , n_trials: 110 , bonus: 0.0
+ERROR <class 'botocore.exceptions.ClientError'>
+ An error occurred (ParameterValidationError) when calling the SendBonus operation: The value 0.00 is invalid for BonusAmount.Amount. Valid values range from 0.01 to 2147483. (1567618851590)
+n trials: 110
+accuracy: 84
+duration: 16.80
+{"Q0":"I think it was fun and easy."}
+bonus amount: 1.900000
+Enter a custom message? Pressing enter reverts to default. Great work!
+Amount to bonus worker? Pressing enter reverts to 1.9
+worker_id: A3ITZNJQUTIZ4C , experiment_duration: 16.80 , accuracy:  84 , n_trials: 110 , bonus: 1.9 success!
+n trials: 110
+accuracy: 81
+duration: 8.77
+{"Q0":""}
+bonus amount: 1.300000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 1.3
+worker_id: A18E485IPPBEJ2 , experiment_duration: 8.77 , accuracy:  81 , n_trials: 110 , bonus: 1.3 success!
+n trials: 110
+accuracy: 87
+duration: 8.69
+{"Q0":"The animals were easy, but the planes and faces were a lot harder - the chairs were moderate, sometimes the angle made it harder but usually they were pretty distinguishable. It was fun!"}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default. Thanks for the feedback :D
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A1K5ILJMG439M5 , experiment_duration: 8.69 , accuracy:  87 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 85
+duration: 10.12
+{"Q0":"It was challenging and strange.  Not boring, fun!"}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default. Thanks for the feedback :D
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A9IC7BMHIPTYH , experiment_duration: 10.12 , accuracy:  85 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 88
+duration: 8.02
+{"Q0":""}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A2YGOORS5N9RW8 , experiment_duration: 8.02 , accuracy:  88 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 87
+duration: 5.60
+{"Q0":""}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: AMTTB8JUWRRM7 , experiment_duration: 5.60 , accuracy:  87 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 85
+duration: 12.10
+{"Q0":"This was a great experiment! It was fun and challenging to do. I really enjoyed it. Thank you."}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default. Thanks for the feedback :D
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A1TLQ6BTDQX7US , experiment_duration: 12.10 , accuracy:  85 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 95
+duration: 11.79
+{"Q0":"It would have been nice to see a counter of what trial # I was on out of how many. Also I thought the ones with the faces were incredibly hard to tell apart."}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default. Thanks for the feedback. We'll keep this in mind for future experiments.
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A1YX4D517MM5M3 , experiment_duration: 11.79 , accuracy:  95 , n_trials: 110 , bonus: 2.0 success!
+creating new submission inventory...
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+n trials: 110
+accuracy: 91
+duration: 7.35
+{"Q0":"I wouldn't call it fun but it was a little different than the usual IAT style stuff.  Thanks."}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default. Thanks for the feedback! On to the next IAT :/
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A1D9ZWU1M46SAF , experiment_duration: 7.35 , accuracy:  91 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 78
+duration: 9.56
+{"Q0":"Pretty hard"}
+bonus amount: 0.700000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 0.7
+worker_id: A2SKXKH9YXZYRI , experiment_duration: 9.56 , accuracy:  78 , n_trials: 110 , bonus: 0.7 success!
+n trials: 110
+accuracy: 91
+duration: 6.79
+{"Q0":""}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A1YSYI926BBOHW , experiment_duration: 6.79 , accuracy:  91 , n_trials: 110 , bonus: 2.0 success!
+creating new submission inventory...
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+creating new subject inventory
+n trials: 110
+accuracy: 75
+duration: 8.23
+{"Q0":""}
+bonus amount: 0.100000
+Enter a custom message? Pressing enter reverts to default. We're manually adding to your bonus, so you'll have made 1$ total for this HIT
+Amount to bonus worker? Pressing enter reverts to 0.1 0.50
+worker_id: A3HW4QDJB63OQ2 , experiment_duration: 8.23 , accuracy:  75 , n_trials: 110 , bonus: 0.50
+ERROR <class 'botocore.exceptions.ClientError'>
+ An error occurred (ValidationException) when calling the SendBonus operation: 1 validation error detected: Value '0.50 ' at 'bonusAmount' failed to satisfy constraint: Member must satisfy regular expression pattern: ^[0-9]+(\.)?[0-9]{0,2}$
+n trials: 110
+accuracy: 82
+duration: 10.34
+{"Q0":"It was a little hard but I enjoyed doing it, I think the bonus is pretty fair"}
+bonus amount: 1.500000
+Enter a custom message? Pressing enter reverts to default. Thanks for the feedback! It's really helpful to know how we're doing.
+Amount to bonus worker? Pressing enter reverts to 1.5
+worker_id: A1PLQGQ95NICAF , experiment_duration: 10.34 , accuracy:  82 , n_trials: 110 , bonus: 1.5 success!
+n trials: 110
+accuracy: 92
+duration: 9.08
+{"Q0":""}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A3FTZV5B9ILQET , experiment_duration: 9.08 , accuracy:  92 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 78
+duration: 8.42
+{"Q0":"was pretty hard"}
+bonus amount: 0.700000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 0.7
+worker_id: A3PRZRK9IC5CBI , experiment_duration: 8.42 , accuracy:  78 , n_trials: 110 , bonus: 0.7 success!
+n trials: 110
+accuracy: 87
+duration: 7.02
+{"Q0":"The experiment was interesting and unique. I thought the bonus was easy to get if you just pay attention. I didn't have trouble with it and you have more than enough time to make a decision in each trial. "}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default. Thanks for the feedback! It's good to know how we're doing :)
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A4SC8G0149GEG , experiment_duration: 7.02 , accuracy:  87 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 82
+duration: 12.56
+{"Q0":"It was interesting. Took a couple times to see what was going on with the faces. There were a few too many and my mind started to wander toward the end."}
+bonus amount: 1.500000
+Enter a custom message? Pressing enter reverts to default. Thanks for the feedback! We should probably just make the experiments shorter.
+Amount to bonus worker? Pressing enter reverts to 1.5
+worker_id: A25PSQPDWW6L98 , experiment_duration: 12.56 , accuracy:  82 , n_trials: 110 , bonus: 1.5 success!
+n trials: 110
+accuracy: 85
+duration: 9.08
+{"Q0":"It was challenging with the limited time but it made me focus more because of the bonus. It was somewhat hard but some of the easy trials helped a lot. Thanks."}
+bonus amount: 2.000000
+Enter a custom message? Pressing enter reverts to default. Thanks for the feedback! It's so helpful for us :)
+Amount to bonus worker? Pressing enter reverts to 2.0
+worker_id: A39KHMYFO61LKN , experiment_duration: 9.08 , accuracy:  85 , n_trials: 110 , bonus: 2.0 success!
+n trials: 110
+accuracy: 72
+duration: 7.18
+{"Q0":"lmao at the way your title is created knowing that you literally have to get 100% to even get that bonus. If you stated that you had to get 75% correct at all I'm sure a lot less people would do this task for 50cents. Have a good night :)"}
+bonus amount: 0.000000
+Enter a custom message? Pressing enter reverts to default. More than half of people get the 2$ bonus... but you didn't do badly so I'm manually adding to your bonus :) Thanks!
+Amount to bonus worker? Pressing enter reverts to 0.0 0.50
+worker_id: A1AQQFJAF8CI4H , experiment_duration: 7.18 , accuracy:  72 , n_trials: 110 , bonus: 0.50
+ERROR <class 'botocore.exceptions.ClientError'>
+ An error occurred (ValidationException) when calling the SendBonus operation: 1 validation error detected: Value '0.50 ' at 'bonusAmount' failed to satisfy constraint: Member must satisfy regular expression pattern: ^[0-9]+(\.)?[0-9]{0,2}$
+n trials: 110
+accuracy: 84
+duration: 14.95
+{"Q0":"interesting"}
+bonus amount: 1.900000
+Enter a custom message? Pressing enter reverts to default.
+Amount to bonus worker? Pressing enter reverts to 1.9
+worker_id: A1H5I0BGVIY5CC , experiment_duration: 14.95 , accuracy:  84 , n_trials: 110 , bonus: 1.9 success!
