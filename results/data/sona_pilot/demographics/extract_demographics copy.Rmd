@@ -1,0 +1,219 @@
+---
+title: "extract_demographics"
+output: html_document
+---
+
+```{r}
+# FUTURE:::: filter out time from the date
+# Adapt receipt for MTurk
+# automate conversion to the exact format necessary in the template
+```
+
+```{r}
+library(tibble)
+library(tidyr)
+library(dplyr)
+library(stringr)
+```
+
+
+```{r}
+path <- paste('/Users/chrisiyer/_Current/Thesis_folder/face_experiment/data/')
+file <- paste(path, 'face_data_23.14.07.2021.csv', sep='')
+df <- read.csv(file)
+```
+
+```{r}
+# FROM ANALYSIS
+## Filter out undesired (it's me, or didn't complete the study)
+source('participant_check.R') # remember to change pathname in here
+
+for (id in ids_exclude) { #ids_exclude created by participant_check.R
+  # take undesired experiment IDs out of df
+  df <- subset(df, experiment_id != id)
+}
+
+df$subj_num <- match(df$experiment_id, unique(df$experiment_id)) # append subject number 1,2,...
+df$subj_num <- as.character(df$subj_num)
+```
+
+
+```{r}
+# NOTE: Demographics will be saved differently (better) in new data: change this
+dem <- df %>%
+  filter(trial_type == 'demographics') %>%
+  select(response, first, last, phone, email, dob, sex,
+         asian, latinx, white, latinx., latinx..1, hand_right, english_1L., 
+         english_1L..1, english_learned, vision., colorblind., hearing., hearing..1, education)
+```
+
+```{r}
+# deal with dumb race things
+races <- c()
+for (i in 1:nrow(dem)) {
+  thisRace <- '';
+  if (dem$asian[i] == 'on') {
+    thisRace <- paste(thisRace, 'asian')
+  } 
+  if (dem$white[i] == 'on') {
+    thisRace <- paste(thisRace, 'white')
+  } 
+  if (dem$latinx[i] == 'on') {
+    thisRace <- paste(thisRace, 'latinx')
+  }
+  # take off initial space
+  if (thisRace != '') {
+    thisRace <- substr(thisRace, 2, str_length(thisRace))
+  }
+  races <- c(races, thisRace)
+}
+scrap <- c('asian','white', 'latinx')
+dem$race <- races
+dem <- dem[, !(names(dem) %in% scrap)] # get rid of old race columns
+dem <- dem[, c(1:7, 19, 8:18)] # change order to put race column in right spot
+```
+
+```{r}
+rec <- df %>%
+  filter(trial_type == 'receipt') %>%
+  select(response, date.time, sunet, sign)
+rec$first <- dem$first
+rec$last <- dem$last 
+rec$email <- dem$email
+rec <- rec[, c(1,2, 5,6,7, 3,4)]
+```
+
+```{r}
+# write.csv(dem, "/Users/chrisiyer/_Current/Thesis_folder/face_experiment/data/dem_rec/demographics_8_7_2021.csv")
+# write.csv(rec, "/Users/chrisiyer/_Current/Thesis_folder/face_experiment/data/dem_rec/receipts_8_7_2021.csv")
+```
+
+```{r}
+# now have everything in dem and rec, combine into the format I want
+template <- read.csv(paste(path, 'dem_rec/dem_rec_template.csv', sep='')) # template to populate
+template <- template[1:length(template)-1] # remove last column which for some reason it adds
+if (ncol(template) != 44) {
+  print ('error: wrong number of columns')
+} 
+
+# add empty rows depending on number of subjects
+final <- data.frame(matrix(nrow = nrow(dem), ncol = ncol(template)))
+colnames(final) <- colnames(template)
+```
+
+```{r}
+# now populate each of the 44 columns with the necessary information
+final$record_id <- rec$sign
+final$form_1_complete <- case_when(
+  is.na(final$record_id) ~ 0, # incomplete if unsigned
+  TRUE ~ 2
+)
+final$entry_number <- 1:nrow(final)
+
+### DEMOGRAPHICS FORM 
+final$first_name <- dem$first
+final$last_name <- dem$last
+final$telephone <- dem$phone
+final$email <- dem$email
+final$dob <- format(as.Date(substr(dem$dob, 1,10)),'%m/%d/%Y');
+
+##### This must change
+final$demo_sex <- case_when(
+  dem$latinx. == 'on' ~ 1, 
+  dem$latinx..1 == 'on' ~ 0,
+  TRUE ~ 2
+)
+#### This also must change - see below 
+# final$ethnicity <- case_when( ####### FIX
+#   TRUE ~ "???" # lol idk
+# )
+
+final$race <- case_when(
+  dem$latinx..1 == "on" ~ 1,
+  TRUE ~ 0
+)
+final$handedness <- case_when(
+  dem$hand_right == "on" ~ 0,
+  TRUE ~ 1 # auto to left even if not filled out whatever
+)
+final$is_english_your_first_lang <- case_when(
+  dem$english_1L. == "on" ~ 1,
+  dem$english_1L..1 == "on" ~ 0,
+  TRUE ~ NA_real_
+)
+final$at_what_age_did_you_learn <- dem$english_learned
+final$vision_normal_or_corr <- case_when(
+  dem$vision. == "on" ~ 1,
+  TRUE ~ 0 #whatever
+)
+final$are_you_colorblid <- case_when(
+  dem$colorblind. == "on" ~ 1,
+  TRUE ~ 0 #whatever
+)
+final$hearing_normal_or_corr <- case_when(
+  dem$hearing. == "on" ~ 1,
+  dem$hearing..1 == "on" ~ 0,
+  TRUE ~ NA_real_
+)
+final$number_of_education <- dem$education
+final$demographics_complete <- case_when(
+  final$first_name == "" ~ 0,
+  TRUE ~ 2
+)
+
+#####RECEIPT
+final$date_month_day_year <- format(as.Date(substr(rec$date.time, 1,10)),'%m/%d/%Y')
+final$first_name_receipt <- rec$first
+final$last_name_receipt <- rec$last
+final$email_receipt <- rec$email
+final$preferred_email_for_contac <- rec$email
+final$what_is_your_sunet_id <- rec$sunet
+final$payment_receipt_form_credit_complete <- case_when(
+  rec$first == "" ~ 0,
+  TRUE ~ 2
+)
+
+
+final$ethnicity___0 <- 0
+final$ethnicity___1 <- 0
+final$ethnicity___2 <- 0
+final$ethnicity___3 <- 0
+final$ethnicity___4 <- 0
+final$ethnicity___5 <- 0
+final$ethnicity___99 <- 0
+
+for (i in 1:nrow(final)) {
+  curr <- dem$race[i]
+  if (grepl('native', curr)) {
+    final$ethnicity___0[i] <- 1
+  } 
+  if (grepl('asian', curr)) {
+    final$ethnicity___1[i] <- 1
+  } 
+  if (grepl('pacific', curr)) {
+    final$ethnicity___2[i] <- 1
+  } 
+  if (grepl('black', curr)) {
+    final$ethnicity___3[i] <- 1
+  } 
+  if (grepl('white', curr)) {
+    final$ethnicity___4[i] <- 1
+  } 
+  if (grepl('latinx', curr)) {
+    final$ethnicity___5[i] <- 1
+  } 
+  if (grepl('other', curr)) {
+    final$ethnicity___99[i] <- 1
+  }
+}
+
+
+# just because the system is dumb
+final[is.na(final)] <- ""
+view(final)
+```
+
+```{r}
+# write out as file
+write.csv(final, paste(path, '/dem_rec/dem_rec_24.08.2021.csv', sep=''), row.names=FALSE)
+```
