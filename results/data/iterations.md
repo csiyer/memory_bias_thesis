@@ -6,7 +6,7 @@
 - _prolific_test_two_: tyler and chris testing loading multiple at once
 - _prolific_multiple_subjects_, _prolific_multiple_subjects_2_ (10 people), _prolific_multiple_subjects_3_ (final), _non_prolific_ (accidentally 10 subjects)
 
-*Main task*  (AFC pairing across-group, within-group) 
+*Main task* 
 Serial recognition test format:
 - _pilot_testing_, _pilot_sona1_ (1), _pilot_prolific_ (10)
 - _pilot_prolific_inform_memory_ (10), _pilot_prolific_repeat_encoding_ (10)
